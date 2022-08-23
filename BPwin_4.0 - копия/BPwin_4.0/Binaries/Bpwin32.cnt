@@ -1,0 +1,280 @@
+:Base BPwin32.HLP>Ovr
+:Title Computer Associates BPwin Online Help
+:Index BPwin tutorial=BPtut40.HLP
+1 What's New in BPwin 4.0
+2 What's New in BPwin 4.0=Whats_New_in_BPwin_4.0>main
+1 BPwin Workplace
+2 BPwin Workplace=BPwin_Workplace>main
+2 Menu Bar=Menu_Bar>main
+2 Standard Toolbar=Standard_Toolbar>main
+2 Drawing Area=Drawing_Area>main
+2 Status Bar=Status_Bar>main
+2 Customizing the BPwin Workplace=Customize_the_BPwin_workplace>main
+2 BPwin Model Explorer=Overview_of_the_BPwin_Model_Explorer>Ovr
+2 Move or resize a BPwin toolbar or toolbox=Move_or_resize_a_BPwin_toolbar_or_toolbox
+2 BPwin Toolbox
+3 BPwin Toolbox for Process Flow Diagrams (IDEF3)=BPwin_Toolbox_for_Process_Flow_Diagrams_(IDEF3)>main
+3 BPwin Toolbox for Data Flow Diagrams (DFD)=BPwin_Toolbox_for_Data_Flow_Diagrams_(DFD)>main
+3 BPwin Toolbox for Business Process Diagrams (IDEF0)=BPwin_Toolbox_for_Business_Process_Diagrams_(IDEF0)>Ovr
+1 Basic Features
+2 BPwin Preferences
+3 Set general BPwin preferences=Set_general_BPwin_preferences>proc
+3 Set preferences for IDL import and export=Set_preferences_for_IDL_import_and_export>proc
+2 Creating, Opening, and Closing a BPwin Model
+3 Create a BPwin model=Create_a_BPwin_model
+3 Open a BPwin model=Open_a_BPwin_model
+3 Close a BPwin model=Close_a_BPwin_model
+2 Setting the Diagram View
+3 Set the diagram view=Set_the_diagram_view
+2 Copying a Diagram to the Windows Clipboard
+3 Copy a diagram to the Windows Clipboard=Copy_a_diagram_to_the_Windows_Clipboard
+2 Using the Spelling Checker
+3 Using the Spelling Checker=Overview_of_the_Spelling_Checker>main
+2 Saving a BPwin Model
+3 Save a BPwin model under another name=Save_a_BPwin_model_under_another_name
+3 Save all open BPwin models=Save_all_open_BPwin_models
+3 Save a BPwin model as an IDL file=Save_a_BPwin_model_as_an_IDL_file
+3 Automatically save files=Automatically_save_files
+2 Printing a BPwin Diagram
+3 Print a BPwin diagram=Print_a_BPwin_diagram
+3 Print Dialog Options=Print_Dialog_Options
+2 Setting Default Fonts and Colors
+3 Set default font properties for diagram objects=Set_default_font_properties_for_diagram_objects
+2 Exiting BPwin
+3 Exiting BPwin=Exiting_BPwin>main
+1 BPwin Model Properties
+2 Define general model properties=Define_general_model_properties
+2 Define the purpose and viewpoint of a model=Define_the_purpose_and_viewpoint_of_a_model
+2 Define the scope and definition of a model=Define_the_scope_and_definition_of_a_model
+2 Define model source information=Define_model_source_information
+2 Define the model status=Define_the_model_status
+2 Set diagram object numbering options=Set_diagram_object_numbering_options
+2 Set model display options=Set_model_display_options
+2 Set model layout options=Set_model_layout_options
+2 Set ABC units of measure options=Set_ABC_units_of_measure_options
+2 Define model page setup options=Define_model_page_setup_options
+2 Set model header and footer fields=Set_model_header_and_footer_fields
+2 Assign default shapes for diagram objects=Assign_default_shapes_for_diagram_objects
+2 Set model default draw style=Set_model_default_draw_style
+2 BPwin New Model Properties
+3 Define properties for new models=Define_properties_for_new_models
+1 BPwin Diagram Properties
+2 Define the diagram author name=Define_the_diagram_author_name
+2 Define the diagram kit=Define_the_diagram_kit
+2 Define the diagram status=Define_the_diagram_status
+2 Define diagram text=Define_diagram_text
+2 Define the diagram page setup=Define_the_diagram_page_setup
+2 Set diagram header and footer fields=Set_diagram_header_and_footer_fields
+2 Define the diagram draw style=Define_the_diagram_draw_style
+1 BPwin Dictionaries
+2 Activity Dictionary
+3 Add an activity name to the dictionary=Add_an_activity_name_to_the_dictionary
+3 Change activity properties in the dictionary=Change_activity_properties_in_the_dictionary
+3 Delete an activity name from the dictionary=Delete_an_activity_name_from_the_dictionary
+3 Using the Diagram Object Dictionary Editor
+4 Add a diagram object name in the Diagram Object Dictionary Editor=Add_a_diagram_object_name_in_the_Diagram_Object_Dictionary_Editor
+4 Change diagram object properties in the Diagram Object Dictionary Editor=Change_diagram_object_properties_in_the_Diagram_Object_Dictionary_Editor
+4 Delete a diagram object name in the Diagram Object Dictionary Editor=Delete_a_diagram_object_name_in_the_Diagram_Object_Dictionary_Editor
+2 Arrow Dictionary
+3 Add an arrow name to the dictionary=Add_an_arrow_name_to_the_dictionary
+3 Change arrow properties in the dictionary=Change_arrow_properties_in_the_dictionary
+3 Delete an arrow name from the dictionary=Delete_an_arrow_name_from_the_dictionary
+3 Using the Arrow Dictionary Editor
+4 Add an arrow name using the Arrow Dictionary Editor=Add_an_arrow_name_using_the_Arrow_Dictionary_Editor
+4 Change arrow properties using the Arrow Dictionary Editor=Change_arrow_properties_using_the_Arrow_Dictionary_Editor
+4 Delete an arrow name using the Arrow Dictionary Editor=Delete_an_arrow_name_using_the_Arrow_Dictionary_Editor
+2 Data Store Dictionary
+3 Add a data store name to the dictionary=Add_a_data_store_name_to_the_dictionary
+3 Change data store properties in the dictionary=Change_data_store_properties_in_the_dictionary
+3 Delete a data store name from the dictionary=Delete_a_data_store_name_from_the_dictionary
+2 External Reference Dictionary
+3 Add an external reference name to the dictionary=Add_an_external_reference_name_to_the_dictionary
+3 Change external reference properties in the dictionary=Change_external_reference_properties_in_the_dictionary
+3 Delete an external reference name from the dictionary=Delete_an_external_reference_name_from_the_dictionary
+2 Junction Dictionary
+3 Add a junction name to the dictionary=Add_a_junction_name_to_the_dictionary
+3 Change junction properties in the dictionary=Change_junction_properties_in_the_dictionary
+3 Delete a junction name from the dictionary=Delete_a_junction_name_from_the_dictionary
+2 Referent Dictionary
+3 Add a referent name to the dictionary=Add_a_referent_name_to_the_dictionary
+3 Change referent properties in the dictionary=Change_referent_properties_in_the_dictionary
+3 Delete a referent name from the dictionary=Delete_a_referent_name_from_the_dictionary
+2 Entity Dictionary
+3 Add an entity name to the dictionary=Add_an_entity_name_to_the_dictionary
+3 Change entity properties in the dictionary=Change_entity_properties_in_the_dictionary
+3 Delete an entity name from the dictionary=Delete_an_entity_name_from_the_dictionary
+3 Using the Entity and Attribute Editor
+4 Add entities and attributes using the Entity and Attribute Dictionary Editor=Add_entities_and_attributes_using_the_Entity_and_Attribute_Dictionary_Editor
+4 Change entity and attribute associations using the Entity and Attribute Dictionary Editor=Change_entity_and_attribute_associations_using_the_Entity_and_Attribute_Dictionary_Editor
+4 Delete entities and attributes using the Entity and Attribute Dictionary Editor=Delete_entities_and_attributes_using_the_Entity_and_Attribute_Dictionary_Editor
+2 Attribute Dictionary
+3 Add an attribute name to the dictionary=Add_an_attribute_name_to_the_dictionary
+3 Change attribute properties in the dictionary=Change_attribute_properties_in_the_dictionary
+3 Delete an attribute name from the dictionary=Delete_an_attribute_name_from_the_dictionary
+3 Using the Entity and Attribute Editor
+4 Add entities and attributes using the Entity and Attribute Dictionary Editor=Add_entities_and_attributes_using_the_Entity_and_Attribute_Dictionary_Editor
+4 Change entity and attribute associations using the Entity and Attribute Dictionary Editor=Change_entity_and_attribute_associations_using_the_Entity_and_Attribute_Dictionary_Editor
+4 Delete entities and attributes using the Entity and Attribute Dictionary Editor=Delete_entities_and_attributes_using_the_Entity_and_Attribute_Dictionary_Editor
+2 Cost Center Dictionary
+3 Add an ABC cost center name to the dictionary=Add_an_ABC_cost_center_name_to_the_dictionary
+3 Change ABC cost center properties in the dictionary=Change_ABC_cost_center_properties_in_the_dictionary
+3 Delete an ABC cost center name from the dictionary=Delete_an_ABC_cost_center_name_from_the_dictionary
+2 Role Group Dictionary
+3 Add a role group name to the dictionary=Add_a_role_group_name_to_the_dictionary
+3 Change role group properties in the dictionary=Change_role_group_properties_in_the_dictionary
+3 Delete a role group name from the dictionary=Delete_a_role_group_name_from_the_dictionary
+2 Role Dictionary
+3 Add a role name to the dictionary=Add_a_role_name_to_the_dictionary
+3 Change role properties in the dictionary=Change_role_properties_in_the_dictionary
+3 Delete a role name from the dictionary=Delete_a_role_name_from_the_dictionary
+2 Resource Dictionary
+3 Add a resource name to the dictionary=Add_a_resource_name_to_the_dictionary
+3 Change resource properties in the dictionary=Change_resource_properties_in_the_dictionary
+3 Delete a resource name from the dictionary=Delete_a_resource_name_from_the_dictionary
+2 UDP Dictionary
+3 Add a UDP name to the dictionary=Add_a_UDP_name_to_the_dictionary
+3 Change UDP properties in the dictionary=Change_UDP_properties_in_the_dictionary
+3 Delete a UDP name from the dictionary=Delete_a_UDP_name_from_the_dictionary
+3 Using the User Defined Property Dicitonary Editor
+4 Add a UDP name using the User Defined Property Dictionary Editor=Add_a_UDP_name_using_the_User_Defined_Property_Dictionary_Editor
+4 Change a UDP using the User Defined Property Dictionary Editor=Change_a_UDP_using_the_User_Defined_Property_Dictionary_Editor
+4 Delete a UDP name using the User Defined Property Dictionary Editor=Delete_a_UDP_name_using_the_User_Defined_Property_Dictionary_Editor
+2 UDP Keywords Dictionary
+3 Add a UDP keyword to the dictionary=Add_a_UDP_keyword_to_the_dictionary
+3 Change a UDP keyword in the dictionary=Change_a_UDP_keyword_in_the_dictionary
+3 Delete a UDP keyword from the dictionary=Delete_a_UDP_keyword_from_the_dictionary
+2 Bitmap Dictionary
+3 Add a bitmap into the dictionary=Add_a_bitmap_into_the_dictionary
+3 Change a bitmap name in the dictionary=Change_a_bitmap_name_in_the_dictionary
+3 Delete a bitmap from the dictionary=Delete_a_bitmap_from_the_dictionary
+1 The BPwin Model Explorer
+2 Overview of the BPwin Model Explorer=Overview_of_the_BPwin_Model_Explorer>Ovr
+2 BPwin Model Explorer Features=BPwin_Model_Explorer_Features>main
+2 Display or hide the BPwin Model Explorer=Display_or_hide_the_BPwin_Model_Explorer
+2 Using the Model Explorer Activity Tree
+3 Summary of Model Explorer Activity Tree Objects=Summary_of_Model_Explorer_Activity_Tree_Objects>main
+3 Add a new activity from the Model Explorer=Add_a_new_activity_using_the_Model_Explorer
+3 Decompose an activity from the Model Explorer=Decompose_an_activity_from_the_Model_Explorer
+3 Copy an activity within the same model=Copy_an_activity_within_the_same_model
+3 Cut and paste an activity within the same model=Cut_and_paste_an_activity_with_in_the_same_model
+3 Copy an activity to another model=Copy_an_activity_to_another_model
+2 Using the Model Explorer Diagram Tree
+3 Summary of Model Explorer Diagram Tree Objects=Summary_of_Model_Explorer_Diagram_Tree_Objects>main
+3 Open a model diagram using the Model Explorer=Open_a_model_diagram_using_the_Model_Explorer
+2 Using the Model Explorer Object Tree
+3 Summary of Model Explorer Object Tree Objects=Summary_of_Model_Explorer_Object_Tree_Objects
+1 BPwin Diagram Types
+2 Business Process (IDEF0) Modeling
+3 Overview of IDEF0 Modeling=Overview_of_Business_Process_Modeling>main
+2 Data Flow (DFD) Modeling
+3 Overview of DFD Modeling=Overview_of_DFD_Modeling>main
+3 Summary of DFD Objects=Summary_of_DFD_Diagram_Objects>main
+2 Process Flow (IDEF3) Modeling
+3 Overview of IDEF3 Modeling=Overview_of_Process_Flow_Modeling>main
+2 For Exposition Only (FEO) Diagrams
+3 For Exposition Only (FEO) Diagrams=For_Exposition_Only_(FEO)_Diagrams
+3 Add an FEO diagram=Add_an_FEO_diagram
+2 Swim Lane Diagrams
+3 Swim Lane Diagrams=Swim_Lane_Diagrams
+3 Add a swim lane diagram=Add_a_Swim_Lane_diagram_step_1_of_2
+3 Roles and Role Groups=Roles_and_Role_Groups
+2 Organization Charts
+3 Organization Charts=Organization_Charts
+3 Add an organization chart=Add_an_organization_chart
+3 Roles and Role Groups=Roles_and_Role_Groups
+2 Node Tree Diagrams
+3 Node Tree Diagrams=Node_Tree_Diagrams
+3 Add a Node Tree diagram=Add_a_Node_Tree_diagram_step_1_of_2
+2 IDEF3 Scenario Diagrams
+3 Add an IDEF3 Scenario diagram to a model=Add_an_IDEF3_Scenario_diagram_to_a_model
+3 Reorder IDEF3 Scenario diagrams=Reorder_IDEF3_Scenario_diagrams
+1 Working with Activities
+2 Creating an Activity Decomposition Diagram=Activity_Decomposition_Diagrams>main
+2 Go to an activity in the model=Go_to_an_activity_in_the_model
+2 Delete a diagram object=Delete_a_diagram_object
+2 Move a diagram object within a diagram=Move_a_diagram_object_within_a_diagram
+2 Move an activity using Move/Rename=Move_an_activity_using_Move/Rename
+2 Reposition a diagram object=Reposition_a_diagram_object
+2 Reposition multiple diagram objects=Reposition_multiple_diagram_objects
+2 Resize a diagram object=Resize_a_diagram_object
+2 Cut and paste an activity=Cut_and_paste_an_activity
+2 Using the Model Explorer Activity Tree
+3 Summary of Model Explorer Activity Tree Objects=Summary_of_Model_Explorer_Activity_Tree_Objects>main
+3 Add a new activity from the Model Explorer=Add_a_new_activity_using_the_Model_Explorer
+3 Decompose an activity from the Model Explorer=Decompose_an_activity_from_the_Model_Explorer
+3 Copy an activity within the same model=Copy_an_activity_within_the_same_model
+3 Cut and paste an activity within the same model=Cut_and_paste_an_activity_with_in_the_same_model
+3 Copy an activity to another model=Copy_an_activity_to_another_model
+2 Specifying Activity Data Usage
+3 Overview of Activity Data Usage=Overview_of_Activity_Data_Usage
+3 Specify activity data usage=Specify_activity_data_usage
+1 Working with Arrows
+2 Set the default arrow type=Set_the_default_arrow_type
+2 Defining Arrow Styles=Overview_of_Arrow_Types>main
+2 Add an arrow to a Business Process diagram=Add_an_arrow_to_a_Business_Process_diagram
+2 Add an arrow in a Process Flow diagram=Add_an_arrow_in_a_Process_Flow_diagram
+2 Arrow Tunnels
+3 Overview of Arrow Tunnels=Overview_of_Arrow_Tunnels
+3 Resolve a square tunnel to a round tunnel=Resolve_a_square_tunnel_to_a_round_tunnel
+3 Resolve a square tunnel to a border arrow=Resolve_a_square_tunnel_to_a_border_arrow
+2 Specifying Arrow Data
+3 Entities, Attributes and Arrows=Entities_Attributes_and_Arrows
+3 Overview of Arrow Hierarchy and Data Associations in Business Process Models=Overview_of_Arrow_Hierarchy_and_Data_Associations_in_Business_Process_Models
+3 Understanding the IDEF0 Arrow Hierarchy and Data Associations=Overview_of_Arrow_Hierarchy_and_Data_Associations_in_Business_Process_Models>main
+3 Specifying Arrow Data=Entities_Attributes_and_Arrows>main
+3 Copy arrow data from another arrow=Copy_arrow_data_from_another_arrow
+3 Migrate arrow data up the arrow hierarchy=Migrate_arrow_data_up_the_arrow_hierarchy
+3 Remove arrow data from an arrow=Remove_arrow_data_from_an_arrow
+1 Importing and Exporting with BPwin
+2 Exchanging Information with EasyABC
+3 Import cost information from EasyABC=Import_cost_information_from_EasyABC
+3 Export node tree information to EasyABC as a tab-delimited text file=Export_node_tree_information_to_EasyABC_as_a_tab_delimited_text_file
+2 Exchanging Information with ERwin
+3 Overview of Exchanging Information with ERwin=Overview_of_exchanging_information_with_ERwin>main
+3 Importing Entity and Attribute Names from ERwin=Importing_Entity_and_Attribute_Names_from_ERwin>main
+3 Export BPwin entity and attribute information to ERwin=Export_BPwin_entity_and_attribute_information_to_ERwin
+3 Synchronizing BPwin and ERwin Models=Synchronizing_BPwin_and_ERwin_Models>main
+3 Importing Entities and Attributes from an ERwin Dictionary=Importing_Entities_and_Attributes_from_an_ERwin_Dictionary>main
+2 Exporting a BPwin Model to BPSimulator
+3 Define the BPwin ODBC data source=Define_the_BPwin_ODBC_data_source
+3 Exporting a BPwin Model to BPSimulator=Exporting_a_BPwin_Model_to_BPSimulator>main
+3 Advantages of Exporting to BPSimulator=Advantages_of_Exporting_to_BPSimulator>main
+3 Export a BPwin model to BPSimulator=Export_a_BPwin_model_to_BPSimulator
+3 Tips to Export IDEF3 and IDEF0 Models to BPSimulator=Tips_to_Export_IDEF3_and_IDEF0_Models_to_BPSimulator
+2 Exporting a model to Arena Business Edition
+3 Export a BPwin Process Flow diagram to Arena=Export_a_BPwin_process_flow_diagram_to_Arena
+2 Importing and Exporting Dictionary Information
+3 Import dictionary information from a text file=Import_dictionary_information_from_a_text_file
+3 Export dictionary information to a text file=Export_dictionary_information_to_a_text_file
+2 Using IDL to Import and Export Models
+3 Import an .idl file=Import_an_idl_file
+3 Export a BPwin model to an .idl file=Export_a_BPwin_model_to_an_idl_file
+2 Exchanging BPwin Color Palettes
+3 Import a BPwin model color palette=Import_a_BPwin_model_color_palette
+3 Export a BPwin model color palette=Export_a_BPwin_model_color_palette
+1 Merging and Splitting Models
+2 Merging and Splitting Models=Merging_and_Splitting_Models>main
+2 Merging BPwin Models
+3 Merging BPwin Models=Merging_BPwin_Models>main
+3 Merge two models using a call arrow or activity=Merge_two_models_using_a_call_arrow_or_activity
+3 Merging Business Process and DFD Models
+4 Merging Business Process and DFD Models=Merging_Business_Process_and_DFD_Models>main
+3 Merging BPwin Models Linked to Different ERwin Models
+4 Merging BPwin Models Linked to Different ERwin Models=Merging_BPwin_Models_Linked_to_Different_ERwin_Models>main
+3 Using BPwin Merge Options
+4 Using BPwin Merge Options=Summary_of_BPwin_Model_and_Dictionary_Merge_Methods>main
+2 Splitting a BPwin Model
+3 Overview of Splitting BPwin Models=Overview_of_Splitting_BPwin_Models>main
+3 Split a model at an activity or call arrow=Split_a_model_at_an_activity_or_call_arrow
+1 User-Defined Properties (UDPs)
+2 Overview of User - Defined Properties (UDP)=Overview_of_User_Defined_Properties_UDP
+2 Summary of UDP Datatypes=Summary_of_UDP_Datatypes>main
+2 Using UDP Keywords
+3 Filter a UDP list=Filter_a_UDP_list
+3 Overview of UDP Keywords=Overview_of_UDP_Keywords
+1 Computer Associates Technical Support
+2 Technical Support Policy=Technical_Support_Policy>main
+1 BPwin Tutorial
+2 Open the BPwin Tutorial=!JumpID(`BPtut40.hlp',`BPwin_Tutorial_Under_Construction')
+1 Report Builder
+2 Open Report Template Builder Help=!ExecProgram(`Winhlp32.exe RTBHLP.HLP')

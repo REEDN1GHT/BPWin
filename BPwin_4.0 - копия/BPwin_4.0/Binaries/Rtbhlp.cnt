@@ -1,0 +1,38 @@
+:Base RTBHLP.HLP
+1 Report Builder
+2 Welcome to the Report Template Builder=Welcome_to_the_Report_Template_Builder@rtbhlp.HLP>Ovr
+2 Building a Report Template
+3 Report Building Blocks=Report_Building_Blocks@rtbhlp.HLP
+3 Build a report template=Create_a_new_report_template@rtbhlp.HLP
+3 Standard ERwin Reports=Standard_ERwin_Reports@rtbhlp.HLP
+3 Managing Report Results=Managing_Report_Results@rtbhlp.HLP>Ovr
+3 Create a standards template=Create_a_standards_template@rtbhlp.HLP>proc
+3 Edit a report template=Edit_a_report_template@rtbhlp.HLP
+3 Open a report template=Open_a_report_template@rtbhlp.HLP
+3 Save a report template=Save_a_report_template@rtbhlp.HLP
+3 Formatting Options
+4 Output Formats=Output_Formats@rtbhlp.HLP
+4 Set Formatting Preferences=RTB_Preferences_Dialog_Options@rtbhlp.HLP>controls
+4 Set Template Properties=Set_Template_Properties@rtbhlp.HLP>Ovr
+4 HTML Formatting Options=HTML_Formatting_Options@rtbhlp.HLP>Ovr
+4 RTF Formatting Options=RTF_Formatting_Options@rtbhlp.HLP>Ovr
+4 ASCII Formatting Options=ASCII_Formatting_Options@rtbhlp.HLP>Ovr
+2 Running a Report
+3 Overview=The_Report_Template_Builder@rtbhlp.HLP
+3 Run a report=Run_a_report@rtbhlp.HLP
+3 Open a report folder=Open_a_report_folder@rtbhlp.HLP
+2 Importing a Report
+3 Import an ERP File=Import_an_ERP_File@rtbhlp.HLP
+2 Report Results
+3 HTML Report Output=HTML_Report_Output@rtbhlp.HLP
+3 ASCII Report Output=ASCII_Report_Output@rtbhlp.HLP
+3 RTF Report Output=RTF_Report_Output@rtbhlp.HLP
+3 Publish your HTML report on a web server=Publishing_your_HTML_report_on_a_web_server@rtbhlp.HLP>proc
+2 Workplace
+3 The Report Template Builder Workplace=The_Report_Template_Builder_Workplace@rtbhlp.HLP>Ovr
+3 Report Templates Dialog Options=Report_Templates_Dialog_Options@rtbhlp.HLP>Ovr
+3 Report Template Builder Dialog Options=Report_Template_Builder_Dialog_Options@rtbhlp.HLP
+3 Menu Structure
+4 File Menu=Report_Template_Builder_File_Menu@rtbhlp.HLP>controls
+4 Edit Menu=Report_Template_Builder_Edit_Menu@rtbhlp.HLP>controls
+4 Help Menu=Report_Template_Builder_Help_Menu@rtbhlp.HLP>controls
